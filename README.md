@@ -19,8 +19,7 @@ application, and serving them to your clients.
 * **Long-polling** via the `polling` query parameter. Allows to send several
   events at once for long-polling clients by waiting one second before closing
   the connection.
-
-* **Lightweight**: only one Redis connection for history and one for all
+hoho* **Lightweight**: only one Redis connection for history and one for all
   subscriptions, no matter the number of connected clients.
 
 * **`missedevents` event fired** when the full requested history could not be
