@@ -1,4 +1,4 @@
-# Redisse
+﻿# Redisse
 
 Redisse is a Redis-backed Ruby library for creating [Server-Sent
 Events](http://www.w3.org/TR/eventsource/), publishing them from your
@@ -170,3 +170,5 @@ for all the details.
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+Ce fuchier a ete modifié par chebbi amira !
